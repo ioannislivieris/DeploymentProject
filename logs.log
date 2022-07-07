@@ -1,0 +1,426 @@
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance created
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  2.030342  1.091005 
+[INFO] Predictions performed
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.04s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance created
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  2.030342  1.091005 
+[INFO] Predictions performed
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.42s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Threshold were calculated
+[INFO] TRITON server is ready
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.04s
+[INFO] Time: 0.04s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.04s
+[INFO] Time: 0.04s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.49s
+[INFO] Time: 1.49s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.51s
+[INFO] Time: 1.51s
+[INFO] Time: 1.51s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Training instances created
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Validation instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Anomaly detection model was setup
+[INFO] Anomaly detection model was setup
+[INFO] Anomaly detection model was setup
+[INFO] Anomaly detection model was setup
+[INFO] Anomaly detection model was setup
+[INFO] Anomaly detection model was setup
+[INFO] Training process was setup
+[INFO] Training process was setup
+[INFO] Training process was setup
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0   0.05468  0.203769 
+Output df:    MSE loss  MAE loss
+0   0.05468  0.203769 
+[INFO] Predictions performed
+[INFO] Predictions performed
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  0.046605   0.15646 
+[INFO] Predictions performed
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.65s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Anomaly detection model was setup
+[INFO] Training process was setup
+[INFO] Model has been successfully trained
+[INFO ] Time: 113.32s
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.05s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  0.040306  0.149434 
+[INFO] Predictions performed
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.02s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.02s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.51s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Anomaly detection model was setup
+[INFO] Training process was setup
+[INFO] Model has been successfully trained
+[INFO ] Time: 74.03s
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.46s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Anomaly detection model was setup
+[INFO] Training process was setup
+[INFO] Model has been successfully trained
+[INFO ] Time: 46.04s
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.04s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  2.073651  1.039956 
+[INFO] Predictions performed
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.43s
+[INFO] Time: 1.43s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Threshold were calculated
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  2.073651  1.039956 
+[INFO] Predictions performed
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] TRITON server is ready
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.03s
+[INFO] Time: 0.03s
+[INFO] Data cleaning - Data processing
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  1.338778  0.934568 
+Output df:    MSE loss  MAE loss
+0  1.338778  0.934568 
+[INFO] Predictions performed
+[INFO] Predictions performed
+[INFO] Training instances created
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Testing instances created
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 1.43s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Training instances created
+[INFO] Validation instances created
+[INFO] Testing instances created
+[INFO] Anomaly detection model was setup
+[INFO] Training process was setup
+[INFO] Model has been successfully trained
+[INFO ] Time: 393.68s
+[INFO] Threshold were calculated
+Function `_wrapped_model` contains input name(s) InputLayer with unsupported characters which will be renamed to inputlayer in the SavedModel.
+Assets written to: model_repository/AnomalyDetectionModel/1/model.savedmodel/assets
+[INFO] Anomaly detection model was saved in model_repository
+[INFO] Scaler was saved in model_repository
+[INFO] Thresholds were saved in model_repository
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[ERROR] TRITON server is not ready
+[INFO] TRITON server is ready
+[INFO] TRITON server is ready
+[INFO] TRITON server is ready
+[INFO] TRITON server is ready
+[INFO] Download data from CoreBEAT database
+[INFO] Time: 0.04s
+[INFO] Data cleaning - Data processing
+[INFO] Number of features: 4
+[INFO] Instance was preprocessed
+[INFO] Infer with TRITON server: AnomalyDetectionModel
+[INFO] Prediction shape: (1, 32, 4) 
+[INFO] MAE & MSE loss calculated
+Output df:    MSE loss  MAE loss
+0  1.688294   1.03887 
+[INFO] Predictions performed
